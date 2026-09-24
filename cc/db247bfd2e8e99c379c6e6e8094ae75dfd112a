@@ -1,0 +1,25 @@
+.gitignore
+  s_f5d28303cb9ba4::t_6b6130ea3fbb34 1-15
+README.md
+  s_f5d28303cb9ba4::t_56f3711105f50b 1-44
+css/style.css
+  s_f5d28303cb9ba4::t_19447252c90886 1-101
+index.html
+  s_f5d28303cb9ba4::t_c15010f88c5f15 1-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ccdb247bfd2e8e99c379c6e6e8094ae75dfd112a",
+  "prompts": {},
+  "sessions": {
+    "s_f5d28303cb9ba4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "a49606ec-0294-4b79-9470-a00ad016c85e",
+        "model": "unknown"
+      },
+      "human_author": "Somyanath_Mohanty <mohantysomyanath@gmail.com>"
+    }
+  }
+}
