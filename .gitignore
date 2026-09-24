@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Node (in case tooling is added later, e.g. a static server or linter)
+node_modules/
+npm-debug.log*
+
+# Prevent Figma files from being tracked by Git.
+*.fig
